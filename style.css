@@ -1,0 +1,16 @@
+html {
+    background-image: linear-gradient(45deg, #D8BFD8, #DA70D6);
+}
+
+.container {
+    margin: 40px auto;
+    width: 50%;
+    padding: 10px;
+    border: 2px solid #fff;
+    border-radius: 10px;
+}
+
+.title {
+    text-align: center;
+    text-shadow: #CCC 1px 1px 10px;
+}
